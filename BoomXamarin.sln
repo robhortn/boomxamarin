@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoomXamarin", "BoomXamarin\BoomXamarin.csproj", "{2C4FC21A-A6C9-4FD8-ACD5-1EDE09FE8CAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C4FC21A-A6C9-4FD8-ACD5-1EDE09FE8CAF}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{2C4FC21A-A6C9-4FD8-ACD5-1EDE09FE8CAF}.Debug|iPhone.Build.0 = Debug|iPhone
+		{2C4FC21A-A6C9-4FD8-ACD5-1EDE09FE8CAF}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{2C4FC21A-A6C9-4FD8-ACD5-1EDE09FE8CAF}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{2C4FC21A-A6C9-4FD8-ACD5-1EDE09FE8CAF}.Release|iPhone.ActiveCfg = Release|iPhone
+		{2C4FC21A-A6C9-4FD8-ACD5-1EDE09FE8CAF}.Release|iPhone.Build.0 = Release|iPhone
+		{2C4FC21A-A6C9-4FD8-ACD5-1EDE09FE8CAF}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{2C4FC21A-A6C9-4FD8-ACD5-1EDE09FE8CAF}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+EndGlobal

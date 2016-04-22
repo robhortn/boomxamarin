@@ -1,0 +1,16 @@
+/Users/robhorton/src/personal/Xamarin/BoomXamarin/BoomXamarin/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/robhorton/src/personal/Xamarin/BoomXamarin/BoomXamarin/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.nib
+/Users/robhorton/src/personal/Xamarin/BoomXamarin/BoomXamarin/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+/Users/robhorton/src/personal/Xamarin/BoomXamarin/BoomXamarin/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/Info.plist
+/Users/robhorton/src/personal/Xamarin/BoomXamarin/BoomXamarin/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/UIViewController-BYZ-38-t0r.nib
+/Users/robhorton/src/personal/Xamarin/BoomXamarin/BoomXamarin/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/robhorton/src/personal/Xamarin/BoomXamarin/BoomXamarin/obj/iPhoneSimulator/Debug/actool/partial-info.plist
+/Users/robhorton/src/personal/Xamarin/BoomXamarin/BoomXamarin/obj/iPhoneSimulator/Debug/actool/asset-manifest.plist
+/Users/robhorton/src/personal/Xamarin/BoomXamarin/BoomXamarin/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/robhorton/src/personal/Xamarin/BoomXamarin/BoomXamarin/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/robhorton/src/personal/Xamarin/BoomXamarin/BoomXamarin/obj/iPhoneSimulator/Debug/optimized/
+/Users/robhorton/src/personal/Xamarin/BoomXamarin/BoomXamarin/bin/iPhoneSimulator/Debug/BoomXamarin.exe.mdb
+/Users/robhorton/src/personal/Xamarin/BoomXamarin/BoomXamarin/bin/iPhoneSimulator/Debug/BoomXamarin.exe
+/Users/robhorton/src/personal/Xamarin/BoomXamarin/BoomXamarin/obj/iPhoneSimulator/Debug/BoomXamarin.exe
+/Users/robhorton/src/personal/Xamarin/BoomXamarin/BoomXamarin/obj/iPhoneSimulator/Debug/BoomXamarin.exe.mdb
+/Users/robhorton/src/personal/Xamarin/BoomXamarin/BoomXamarin/obj/iPhoneSimulator/Debug/optimized/BoomShakaLaka.png
